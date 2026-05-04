@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:untitled1/app/app.dart';
-import 'package:untitled1/app/injection_container.dart' as di;
+import 'package:almurshid/app/app.dart';
+import 'package:almurshid/app/injection_container.dart' as di;
 
 void main() {
   setUpAll(() {

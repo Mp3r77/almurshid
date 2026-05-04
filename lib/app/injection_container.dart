@@ -1,9 +1,9 @@
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
-import 'package:untitled1/core/network/network_info.dart';
-import 'package:untitled1/core/utils/user_storage.dart';
-import 'package:untitled1/features/doctors/domain/usecases/search_doctors.dart';
+import 'package:almurshid/core/network/network_info.dart';
+import 'package:almurshid/core/utils/user_storage.dart';
+import 'package:almurshid/features/doctors/domain/usecases/search_doctors.dart';
 
 import '../core/network/api_client.dart';
 import '../core/utils/user_bloc.dart';

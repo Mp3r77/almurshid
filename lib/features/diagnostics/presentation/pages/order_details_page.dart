@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-import 'package:untitled1/features/appointment/presentation/pages/review_pay_page.dart';
+import 'package:almurshid/features/appointment/presentation/pages/review_pay_page.dart';
 import '../bloc/diagnostics_bloc.dart';
 import '../bloc/diagnostics_state.dart';
 

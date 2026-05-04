@@ -1,4 +1,4 @@
-package com.example.untitled1
+package com.mp3r77.almurshid
 
 import io.flutter.embedding.android.FlutterActivity
 

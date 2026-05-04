@@ -1,5 +1,5 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:untitled1/core/services/ai_diagnosis_service.dart';
+import 'package:almurshid/core/services/ai_diagnosis_service.dart';
 
 import 'diagnosis_event.dart';
 import 'diagnosis_state.dart';

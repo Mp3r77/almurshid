@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-import 'package:untitled1/core/widgets/section_header.dart';
-import 'package:untitled1/features/doctors/presentation/bloc/doctors_event.dart';
+import 'package:almurshid/core/widgets/section_header.dart';
+import 'package:almurshid/features/doctors/presentation/bloc/doctors_event.dart';
 import '../../../../core/widgets/app_header.dart';
 import '../../../../core/widgets/app_layout.dart';
 import '../../../../core/widgets/app_search_bar.dart';

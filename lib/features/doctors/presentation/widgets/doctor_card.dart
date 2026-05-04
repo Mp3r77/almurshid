@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:untitled1/features/appointment/presentation/pages/doctor_details_page.dart';
-import 'package:untitled1/features/appointment/presentation/pages/booking_details_page.dart';
+import 'package:almurshid/features/appointment/presentation/pages/doctor_details_page.dart';
+import 'package:almurshid/features/appointment/presentation/pages/booking_details_page.dart';
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:untitled1/core/widgets/full_screen_image_page.dart';
+import 'package:almurshid/core/widgets/full_screen_image_page.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 class DoctorCard extends StatelessWidget {
